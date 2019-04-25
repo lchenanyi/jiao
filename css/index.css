@@ -1,0 +1,163 @@
+/* 
+* @Author: HP
+* @Date:   2019-02-20 14:29:07
+* @Last Modified by:   HP
+* @Last Modified time: 2019-02-25 00:03:55
+*/
+.top{
+	background-color: #FCFCFC;
+	height: 41px;
+	border-bottom: 2px solid #EDEEF0;
+}
+.toper{
+	color: #999999;
+	padding-top: 10px;
+}
+.head{
+	
+}
+.fangchan{
+	float: right;
+}
+.header{
+	height: 53px;
+	padding-top: 25px;
+	padding-bottom: 28px;
+}
+.header img{
+	float: left;
+}
+.header ul{
+	float: right;
+	margin-left: 50px;
+	line-height: 30px;
+}
+.header ul li{
+	float: left;
+	padding: 0 25px;
+}
+.header ul .last{
+	padding: 0 0 0 25px;
+}
+.banner_bottom{
+	height: 80px;
+	background-color: #F6F6F6;
+	border-bottom: 1px solid #DBDBDB;
+	position: relative;
+	margin-bottom: 30px;
+}
+.banner_bottom img{
+	position: absolute;
+	top: 23px;left: 163px;
+}
+.banner_bottom form{
+	padding-left: 206px;
+	line-height: 80px;
+}
+.banner_bottom form p{
+	font-size: 16px;
+}
+.banner_bottom form input{
+	margin-top: 23px;
+	padding-left: 10px;
+	margin-left: 10px;
+	color: #CCCCCC;
+}
+.banner_bottom form .text1{
+	width: 98px;
+	height: 32px;
+}
+.banner_bottom form .text2{
+	width: 198px;
+	height: 32px;
+}
+.banner_bottom form .button{
+	width: 120px;
+	height: 34px;
+	border: 1px solid #FA4E7E;
+	background-color: #FA4E7E;
+	color: #fff;
+	text-align: center;
+	padding-left: 0;
+}
+.banner_bottom form .button:hover{
+	background-color: pink;
+}
+.ltop{
+	margin-bottom: -1px;
+	width: 115px;
+	color: #FB4E7E;
+	border-bottom: 1px solid #FB4E7E;
+	font-size: 18px;
+	margin-bottom: 12px;
+}
+.left{
+	width: 272px;
+	height: 346px;
+	float: left;
+}
+.left li{
+	line-height: 27px;
+}
+.right{
+	float: right;
+	height: 346px;
+}
+.right ul{
+	float: left;
+	margin-left: 60px;
+	margin-top: 10px;
+}
+.rtop{
+	float: left;
+	width: 830px;
+	margin-left: 60px;
+	color: #FB4E7E;
+	border-left: 3px solid #FB4E7E;
+	padding-left: 10px;
+	float: left;
+	font-size: 18px;
+
+}
+.right ul li{
+	width: 234px;
+	line-height: 21px;
+	font-weight: bold;
+	padding-top: 15px;
+}
+.right ul li p{
+	font-size: 12px;
+	font-weight: normal;
+}
+.tongcheng{
+	background-color: #FCFCFC;
+	width: 268px;
+	height: 56px;
+	border: 1px solid #F9F9F9;
+	line-height: 56px;
+	font-size: 24px;
+	padding-left: 9px;
+	position: relative;
+}
+.tongcheng p{
+	line-height: 34px;
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	width: 102px;
+	height: 34px;
+	background-color: #FB4E7E;
+	position: absolute;
+	right:9px;top:11px;
+}
+.foot{
+	margin-top: 44px;
+	background-color: #FAFAFA;
+	height: 501px;
+	border-top: 1px solid #F9F9F9;
+}
+.footer p{
+	text-align: center;
+	height: 29px;
+	font-size: 12px;
+}
